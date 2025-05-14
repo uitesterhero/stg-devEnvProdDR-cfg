@@ -2,7 +2,7 @@
 #
 # Configuration for staging environment 
 # force 01/07
-#  
+#  dddd
 version: 1.0
 app:
   # build id to deploy. if 'version' is commented out, the application is not deployed
